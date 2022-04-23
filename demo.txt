@@ -1,0 +1,2 @@
+this is assignment 6 .this project is to open ,read write a file. 
+ this topic name is file handling
